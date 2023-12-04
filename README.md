@@ -1,0 +1,2 @@
+# NegBM
+Negative Binomial Regression
